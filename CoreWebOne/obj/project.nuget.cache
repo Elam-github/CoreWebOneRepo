@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qTNr8irhGPYF1B/T5ojgNy2j4eQaE7OsF5wmZMRKxj6Is7g16PLsBgOv/Q0QLr/sTmBHOSijA8I1p7WJuMIiZw==",
+  "dgSpecHash": "3Qa1mpXJwEOYA8dJKjgEjfUz+FXC6mM/Kpl5IhfgrTo/0wh7lXZlKlCrfB4bJwxQM0t1MbtREAdpnIp4EdGLEQ==",
   "success": true,
   "projectFilePath": "D:\\project\\DockerApp\\CoreWebOne\\CoreWebOne\\CoreWebOne.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Elambarithi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
   "logs": []
 }
